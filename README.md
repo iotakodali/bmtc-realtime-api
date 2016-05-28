@@ -25,9 +25,9 @@ def call(direction, route_id):
   data = {"direction":direction,"routeNO":route_id}
   response = requests.post(url=url,headers=headers,data=json.dumps(data))
   if response.status_code == 200:
-          print route
+          print response.content
   else:
-          print response.content+";"+str(response.status_code)
+          print response.status
 
 f = open("route.csv")
 

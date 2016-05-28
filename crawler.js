@@ -12,7 +12,7 @@ var routes=[];
 var connection =  mysql.createConnection({
     host : "localhost",
     user : "root",
-    password: "watercube"
+    password: "" //set your database password here
 });
 
 connection.connect();
