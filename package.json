@@ -1,0 +1,13 @@
+{
+  "name"         : "BMTC-ITS-Realtime Scraper",
+  "version"      : "0.0.1",
+  "description"  : "Scraper for bus GPS, ETA data from bmtc app",
+  "main"         : "crawler.js",
+  "author"       : "iota",
+  "dependencies" : {
+    "request"    : "latest",
+    "mysql"		   : "latest",
+    "async"      : "latest",
+    "secure-random": "latest"
+  }
+}
