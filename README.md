@@ -10,7 +10,7 @@ I feel the only way to source reliable transit information is through the agency
 
 ##Background:
 
-BMTC has recently implemented Intelligent Transportation Systems for it's entire bus fleet. The real-time arrival information (ETA) is displayed on LED sign boards at few bus-stops. At the same time they publish the information through an android app https://play.google.com/store/apps/details?id=com.tsrtc.bats
+BMTC has recently implemented Intelligent Transportation Systems for it's entire bus fleet. The real-time arrival information (ETA) is displayed on LED sign boards at few bus-stops. At the same time they publish the information through an android app https://play.google.com/store/apps/details?id=com.bmtc.mybmtc
 
 ##API:
 
